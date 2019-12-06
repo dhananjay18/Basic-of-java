@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.page 
+{
+	margin: 0 auto;
+	border-style: 1px solid;
+}
+
+.solid {border-style: solid;}
