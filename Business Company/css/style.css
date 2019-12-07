@@ -1,0 +1,176 @@
+
+/* COMMON */
+
+body{
+    font-family: 'Open-sans', sans-serif;
+    font-size: 17px;
+    line-height:1.5em;
+    padding: 0;
+    margin: 0;
+}
+
+#main-header .primary-text{
+    color:skyblue;
+}
+
+#main-header .mainheader-content{
+    background-color : #3a4b96de;
+color:white;
+border-radius : 15px;
+padding : 0.5px;
+ opacity : 0.9
+}
+
+
+.container
+{
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+
+fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* HEADER */
+#main-header{
+    background-color: black;
+     display: inline;
+}
+#navbar
+{
+    text-transform: uppercase;
+    background-color: black;
+}
+#navbar ul{
+    color: brown;
+}
+#navbar li{
+    list-style: none;
+    display: inline;
+    margin-right: 150px;
+    color: white;
+}
+/* SECOND */
+#second h1
+{
+    color: skyblue;
+}
+
+/* SHOWCASE*/
+#showcase
+{
+    background-color: skyblue;
+    margin: 0;
+    padding: 10px;
+}
+#showcase .row{
+    margin:10px;
+}
+
+#showcase .fa{
+    font-size: 60px;
+    color : white;
+
+}
+
+#showcase h4{
+    color: white;
+}
+
+#showcase p{
+    color: white;
+}
+
+
+/* FEATURES */
+#features h2{
+   font-size: 35px;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+#features p{
+ color: #888;
+    margin: 0;
+    margin-bottom: 40px;
+}
+#features .fa{
+    font-size: 60px;
+    color : skyblue;
+
+}
+
+
+/* INFO */
+
+#info h2{
+ font-size: 35px;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+#info ul{
+ list-style: none;
+    padding: 0;
+    color:#56a79a;
+}
+
+#info button{
+    background-color: skyblue;
+}
+#info h4
+{
+    color: skyblue;
+}
+/* FOOTER*/
+#main-footer{
+    background-color: grey;
+color: #fff;
+
+}
+
+#main-footer .fa-facebook {
+  background: #3B5998;
+  color: white;
+    float: left;
+}
+
+
+#main-footer .fa-twitter {
+  background: #55ACEE;
+  color: white;
+    float:inherit;
+}
+
+
+#main-footer .fa-youtube {
+  background: #55ACEE;
+  color: white;
+    float:right;
+}
+
+#main-footer .fa-phone {
+  background: #55ACEE;
+  color: white;
+    float:left;
+}
+#main-footer .fa-map {
+  background: #55ACEE;
+  color: white;
+    float:right;
+}
+
+
+
+
+
+
+
